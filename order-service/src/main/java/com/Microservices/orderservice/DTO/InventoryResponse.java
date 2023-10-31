@@ -1,16 +1,15 @@
 package com.Microservices.orderservice.DTO;
 
-
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.util.List;
-
-@Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class OrderRequest {
-    private List<OrderLineItemsDto> orderLineItemsDtoList;
-
+@Builder
+@Data
+public class InventoryResponse {
+    private String SkuCode;
+    private boolean isInStock;
 }
