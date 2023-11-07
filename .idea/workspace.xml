@@ -4,9 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f64a7401-5c5a-43f9-8358-48f127e4aff0" name="Changes" comment="">
+    <list default="true" id="b6a2dcc5-d08f-4dbe-b7c9-75e3ced3b442" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inventory-service/src/main/java/com/Microservices/Inventoryservice/InventoryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/InventoryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventory-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Inventory-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventory-service/src/main/java/com/Microservices/Inventoryservice/Controller/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inventory-service/src/main/java/com/Microservices/Inventoryservice/Controller/InventoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices-Project/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices-Project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices-Project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices-Project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices-Project/inventory-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices-Project/inventory-service/src/main/java/com/projects/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices-Project/order-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices-Project/order-service/src/main/java/com/projects/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices-Project/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices-Project/product-service/src/main/java/com/projects/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/Microservices/orderservice/Config/WebClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/Microservices/orderservice/Config/WebClientConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/Microservices/orderservice/Service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/Microservices/orderservice/Service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/projects/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +40,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2XQkhkMzeSq7MxKd5aR2MJelkiM" />
+  <component name="ProjectId" id="2XqeUaRb2oEHT8DlgPMIdDPKRWu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,21 +55,27 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/OpenText - Materials/06- Projects/Microservices/Inventory-service",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_directory_selection": "E:/OpenText - Materials/06- Projects/Microservices/Inventory-service/src/main/java/com/Microservices/Inventoryservice",
+    "last_opened_file_path": "E:/OpenText - Materials/06- Projects/Ecomm/Microservices-Project",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OpenText - Materials\06- Projects\Microservices" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f64a7401-5c5a-43f9-8358-48f127e4aff0" name="Changes" comment="" />
-      <created>1698568813295</created>
+      <changelist id="b6a2dcc5-d08f-4dbe-b7c9-75e3ced3b442" name="Changes" comment="" />
+      <created>1699361056228</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698568813295</updated>
+      <updated>1699361056228</updated>
     </task>
     <servers />
   </component>
